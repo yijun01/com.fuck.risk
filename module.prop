@@ -1,0 +1,19 @@
+# 模块名称
+name=伪造安装模块
+# 模块包名
+id=com.fuck.risk
+# 模块版本号（与Release标签一致）
+versionCode=15
+# 模块版本名称（与Release标签一致）
+versionName=1.3
+# 作者名称
+author=小淋
+# 模块描述
+description=可移除“海阔视界”“嗅觉浏览器”的文件导入检测校验，解除功能限制，从而提升使用体验。
+# 支持的Xposed框架
+supportFramework=LSPosed, LSPatch, EdXposed
+# 适配系统版本（纯数字，与README一致）
+minApi=26
+maxApi=36
+# 模块更新链接（匹配仓库归属）
+updateUrl=https://github.com/yijun01/com.fuck.risk/releases
