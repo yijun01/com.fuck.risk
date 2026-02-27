@@ -57,4 +57,5 @@ https://github.com/yijun01/com.fuck.risk/
 📦 **Download**  📦
 
 [![](https://img.shields.io/github/downloads/yijun01/com.fuck.risk/total?logo=github&label=Total%20Downloads&labelColor=2dba4e&color=2dba4e)](https://github.com/yijun01/com.fuck.risk/)
+[![](https://img.shields.io/github/v/release/yijun01/com.fuck.risk?style=flat-square&logo=android&logoColor=white&color=7E57C2)](https://github.com/yijun01/com.fuck.risk)
 
