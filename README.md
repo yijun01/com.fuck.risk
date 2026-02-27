@@ -50,3 +50,11 @@
 🔗 项目主页：
 -
 https://github.com/yijun01/com.fuck.risk/
+
+---
+# 数据统计
+
+📦 **Download**  📦
+
+![](https://img.shields.io/github/downloads/yijun01/com.fuck.risk/total?logo=github&label=Total%20Downloads&labelColor=2dba4e&color=2dba4e)
+
